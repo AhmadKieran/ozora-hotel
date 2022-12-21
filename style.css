@@ -14,5 +14,8 @@ p {
     font-family: 'Noto Serif JP', serif;
 }
 #top {
-    background-image: url(../ozora-hotel/Asset/top-aki-haru.png);
+    background-image: url(/Asset/top-aki-haru.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
